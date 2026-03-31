@@ -16,6 +16,7 @@
 - **退订邮件识别**：自动识别退订请求
 - **AI自动回复**：基于大模型自动生成回复内容
 <img width="1875" height="970" alt="4b53637e-533c-44a3-9b0e-2d437872e99a" src="https://github.com/user-attachments/assets/6e3a16f0-3a77-4882-b4cb-ab0816a98092" />
+<img width="1726" height="941" alt="QQ_1774684728035" src="https://github.com/user-attachments/assets/d5b51efa-76e9-474a-8189-611f0f871b2d" />
 
 
 
