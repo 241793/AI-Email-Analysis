@@ -1,5 +1,5 @@
 {
   "v":"1.1",
-  "notify":"1、whatsapp bot我无法测试，根据官网文档编写，不知道是否正常【本次更新修复签名重复的问题，优化本地分析】，模型可以使用国内免费的api，比如glm-4.7-flash，还有注册https://openrouter.ai/，使用最新qwen/qwen3.6-plus-preview:free免费模型",
+  "notify":"【详细使用文档：https://webnote.cc/p/335f636121a46e66】1、whatsapp bot我无法测试，根据官网文档编写，不知道是否正常【本次更新修复签名重复的问题，优化本地分析】，模型可以使用国内免费的api，比如glm-4.7-flash，还有注册https://openrouter.ai/，使用最新qwen/qwen3.6-plus-preview:free免费模型",
   "download":"http://gh.shgdym.xyz/https://github.com/241793/AI-Email-Analysis/releases/download/latest/AI.1.1.exe"
 }
